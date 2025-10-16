@@ -6,7 +6,9 @@
 
 
 </div>
-
+<img width="1919" height="1142" alt="Image" src="https://github.com/user-attachments/assets/5ec608af-d0ee-4e8c-bac8-747d162043ab" />
+<img width="1919" height="1113" alt="Image" src="https://github.com/user-attachments/assets/cc70de11-9a4f-440e-b29b-4f6caa8862f7" />
+<img width="1919" height="1120" alt="Image" src="https://github.com/user-attachments/assets/c0675c01-5216-43dc-94e0-a8cceba54464" />
 ---
 
 ## 🎯 Overview
@@ -263,35 +265,10 @@ Severe        15      43      442
 
 ```
 car-damage-tracker/
-│
-├── 📂 models/
-│   ├── vehicle_classifier.h5
-│   ├── damage_detector.h5
-│   ├── location_classifier.h5
-│   └── severity_classifier.h5
-│
-├── 📂 data/
-│   ├── train/
-│   ├── validation/
-│   └── test/
-│
-├── 📂 src/
-│   ├── data_preprocessing.py
-│   ├── model_training.py
-│   ├── model_evaluation.py
-│   └── predict.py
-│
-├── 📂 notebooks/
-│   ├── EDA.ipynb
-│   ├── Model_Training.ipynb
-│   └── Results_Analysis.ipynb
-│
-├── 📂 web_app/
-│   ├── app.py
-│   ├── templates/
-│   └── static/
-│
-├── requirements.txt
+├── temp_file.jpg
+├── images.jpg
+├── model_helper.py
+├── saved_model.pth
 ├── README.md
 └── LICENSE
 ```
