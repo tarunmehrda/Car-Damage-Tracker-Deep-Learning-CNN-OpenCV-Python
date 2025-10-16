@@ -676,7 +676,6 @@ Overall Accuracy: 87.6%
 
 ---
 
-## 🎓 Training Your Own Model
 
 <div align="center">
 
